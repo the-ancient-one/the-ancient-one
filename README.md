@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @the-ancient-one
 - 👀 I’m interested in anything related archery,football,cycling,data analytics. 
-- 🌱 I’m currently learning data analytics using Jupyter Notebooks and Go.
-- 💞️ I’m looking to collaborate on building educational materials using Jupyter Notebooks
+- 🌱 I’m currently learning data analytics using Python, Jupyter Notebooks and Go.
 - 📫 How to reach me https://twitter.com/bharath_sada
 
 <!---
