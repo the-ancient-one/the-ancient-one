@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @the-ancient-one
-- 👀 I’m interested in anything related archery,football,cycling,data analytics. 
-- 🌱 I’m currently learning data analytics using Python, Jupyter Notebooks and Go.
-- 📫 How to reach me https://twitter.com/bharath_sada
+- 👀 I’m interested in anything related archery,football,cycling, security, and cryptography. 
+- 🌱 I’m currently learning Python, Jupyter Notebooks and Go.
 
 <!---
 the-ancient-one/the-ancient-one is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
