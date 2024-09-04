@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @the-ancient-one
+- 👋 Hi, I’m Bharath
 - 👀 I’m interested in anything related archery, football, cycling, security, and cryptography. 
 - 🌱 I’m currently learning Go, cryptography, and Zero-knowledge proof.
 
